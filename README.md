@@ -1,1 +1,7 @@
-# Project2_Airbnb-
+Airbnb dataset:
+
+
+Participants:
+
+Maria Vasileiadou
+Nikolaos Karapas
